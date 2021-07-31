@@ -1,4 +1,4 @@
-# quadratic-calculator
+# Quadratic Calculator
 
 Install numpy using this command:
   
