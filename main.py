@@ -32,7 +32,7 @@ if a==0:
   if b==0:
     print("There is no x")
   else:
-    x1=-b/c
+    x1=-c/b
     print("x1 = "+str(x1))
 else:
   if b**2-4*a*c<0:
